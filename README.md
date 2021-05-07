@@ -1,2 +1,0 @@
-# BOOTSTRAP
-CECS 105 BOOTSTRAP activity
